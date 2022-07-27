@@ -9,3 +9,6 @@ parham-mosadeq/parham-mosadeq is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parham-mosadeq)](https://git.io/streak-stats)
+
+
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
