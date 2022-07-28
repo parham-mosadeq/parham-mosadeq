@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @parham-mosadeq
+- 👋 Hi, I’m parham mosadeqzadeh
+- 📧 Here's My Email: pmosadeqzadeh@gmail.com
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning HTML&CSS &javascript +react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 🌱 I’m currently learning react
+  
 
 <!---
 parham-mosadeq/parham-mosadeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
