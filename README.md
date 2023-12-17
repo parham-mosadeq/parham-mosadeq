@@ -2,7 +2,7 @@
  
 
 # 💫 About Me:
-👋 Hi, I’m parham mosadeqzadeh<br>📧 Here's My Email: pmosadeqzadeh@gmail.com<br>👀 I’m interested in web-development<br>🌱 Busy freelancing ;)
+👋 Hi, I’m parham mosadeqzadeh<br>📧 Here's My Email: pmosadeqzadeh@gmail.com<br>👀 I’m interested in web-development<br>🌱 Busy Hustling ;)
 
 
 # 💻 Tech Stack:
